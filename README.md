@@ -3,9 +3,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [University's project]:
-    - [ASD project](https://github.com/FlorindoDev/Laboratorio-Algoritmi-e-Strutture-dati-)
-    - [FandomWiki](https://github.com/FlorindoDev/SoftwereWiki) 
+- 🔭 I’m currently working on **University's project**:
+    - 🚀 [ASD project](https://github.com/FlorindoDev/Laboratorio-Algoritmi-e-Strutture-dati-)
+    - 🚀 [FandomWiki](https://github.com/FlorindoDev/SoftwereWiki)
+      
+- Personal project:
+    - 🚀 [ElementFinder](https://github.com/FlorindoDev/ElementFinder)
+    - 🚀 [LeagueOfBet](https://github.com/FlorindoDev/LeagueOfBet)
+    - 🔜 AppTransfer Work in progress
 
 - 📝 I regularly write articles on [University courses](https://informatica.dieti.unina.it)
 
@@ -15,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/florindo_zec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gdom_3" height="30" width="40" /></a>
+<a href="https://www.instagram.com/florindo_zec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="florindodev" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/florindo-zecconi-aa0368314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="florindoDev" height="30" width="40" /></a>
 </p>
 
