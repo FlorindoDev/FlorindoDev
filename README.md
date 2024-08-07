@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [University's project](https://github.com/GDom3/ProgettoGagliottiDifferente.git)
+- 🔭 I’m currently working on [University's project]:
+    - [ASD project](https://github.com/FlorindoDev/Laboratorio-Algoritmi-e-Strutture-dati-)
+    - [FandomWiki](https://github.com/FlorindoDev/SoftwereWiki) 
 
 - 📝 I regularly write articles on [University courses](https://informatica.dieti.unina.it)
 
