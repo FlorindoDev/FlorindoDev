@@ -7,10 +7,10 @@
     - 🚀 [ASD project](https://github.com/FlorindoDev/Laboratorio-Algoritmi-e-Strutture-dati-)
     - 🚀 [FandomWiki](https://github.com/FlorindoDev/SoftwereWiki)
       
-- Personal project:
+- 🧑🏻‍💻 Personal project:
     - 🚀 [ElementFinder](https://github.com/FlorindoDev/ElementFinder)
     - 🚀 [LeagueOfBet](https://github.com/FlorindoDev/LeagueOfBet)
-    - 🔜 AppTransfer Work in progress
+    - 🔜 AppTransfer, Work in progress
 
 - 📝 I regularly write articles on [University courses](https://informatica.dieti.unina.it)
 
