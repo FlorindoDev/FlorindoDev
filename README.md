@@ -13,8 +13,9 @@
     - 🔜 AppTransfer, Work in progress
 
 - 📝 I regularly write articles on [University courses](https://informatica.dieti.unina.it)
-    - perosnal notes:
-      - [LASD](https://github.com/FlorindoDev/LatexASDNotes) 
+
+- ✍🏻 Perosnal notes:
+    - [LASD](https://github.com/FlorindoDev/LatexASDNotes) 
 
 - 📫 How to reach me **fl.zecconi@studenti.unina.it**
 
