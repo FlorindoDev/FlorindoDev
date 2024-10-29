@@ -6,11 +6,11 @@
 - 🔭 I’m currently working/ed on **University's project**:
     - 🚀 [ASD project](https://github.com/FlorindoDev/Laboratorio-Algoritmi-e-Strutture-dati-)
     - 🚀 [FandomWiki](https://github.com/FlorindoDev/SoftwereWiki)
+    - 🔜 DietiEstates25, Work in progress
       
 - 🧑🏻‍💻 Personal project:
     - 🚀 [ElementFinder](https://github.com/FlorindoDev/ElementFinder)
     - 🚀 [LeagueOfBet](https://github.com/FlorindoDev/LeagueOfBet)
-    - 🔜 DietiEstates25, Work in progress
 
 - 📝 I regularly write articles on [University courses](https://informatica.dieti.unina.it)
 
