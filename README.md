@@ -10,7 +10,7 @@
 - 🧑🏻‍💻 Personal project:
     - 🚀 [ElementFinder](https://github.com/FlorindoDev/ElementFinder)
     - 🚀 [LeagueOfBet](https://github.com/FlorindoDev/LeagueOfBet)
-    - 🔜 AppTransfer, Work in progress
+    - 🔜 DietiEstates25, Work in progress
 
 - 📝 I regularly write articles on [University courses](https://informatica.dieti.unina.it)
 
