@@ -7,6 +7,7 @@
     - 🚀 [ASD project](https://github.com/FlorindoDev/Laboratorio-Algoritmi-e-Strutture-dati-)
     - 🚀 [FandomWiki](https://github.com/FlorindoDev/SoftwereWiki)
     - 🔜 DietiEstates25, Work in progress
+    - 🔜 TelefonoSenzaFili, Work in progress
       
 - 🧑🏻‍💻 Personal project:
     - 🚀 [ElementFinder](https://github.com/FlorindoDev/ElementFinder)
