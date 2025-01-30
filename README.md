@@ -24,11 +24,13 @@
 
 <h2 align="left">🛠️ Skills:</h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,docker,git,angular,cloudflare,dart,discord,flutter,github,html,java,js,latex,linux,obsidian,powershell,py,vscode,postgres,mongodb,bash,figma" />
-  </a>
-</p>
+<div align="center">
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,docker,git,angular,cloudflare,dart,discord,flutter,github,html,java,js,latex,linux,obsidian,powershell,py,vscode,postgres,mongodb,bash,figma" />
+      </a>
+    </p>
+</div>
 
 
 <h2 align="left">🌐 Connect with me:</h2>
