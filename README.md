@@ -27,7 +27,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorindoDev&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=florindodev&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=florindodev&show_icons=true&theme=radical&card_width=220" />
 </a><br><br>
 
 <h2 align="left">🏆 See my goals:</h2>
