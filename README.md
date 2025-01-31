@@ -43,4 +43,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=florindodev&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=kimbie_dark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
