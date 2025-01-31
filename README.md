@@ -24,9 +24,9 @@
 
 <h2 align="left">📌​ Stats:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorindoDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorindoDev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florindodev&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florindodev&show_icons=true&theme=radical)
 
 <h2 align="left">🛠️ Skills:</h2>
 
