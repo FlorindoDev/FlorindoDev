@@ -31,7 +31,7 @@
         <img src="https://skillicons.dev/icons?i=c,cpp,docker,git,angular,cloudflare,dart,discord,flutter,github,html,java,js,latex,linux,obsidian,powershell,py,vscode,postgres,mongodb,bash,figma" />
       </a>
     </p>
-</div>
+</div><br>
 
 <h2 align="left">🌐 Connect with me:</h2>
 <p align="left">
