@@ -30,11 +30,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=florindodev&show_icons=true&theme=radical&card_width=220" />
 </a><br><br>
 
-<h2 align="left">🏆 See my goals:</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=florindodev&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=kimbie_dark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-<br><br>
-
 <h2 align="left">🛠️ Skills:</h2>
 
 <div align="center">
@@ -44,6 +39,11 @@
       </a>
     </p>
 </div><br>
+
+<h2 align="left">🏆 See my goals:</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=florindodev&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=kimbie_dark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<br><br>
 
 <h2 align="left">🌐 Connect with me:</h2>
 <p align="left">
