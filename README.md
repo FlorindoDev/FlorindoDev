@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Florindo Zecconi</h1>
 <h3 align="center">I am a student of the DEGREE COURSE IN COMPUTER SCIENCE at the University of Naples Federico II</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?florindodev=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working/ed on **University's project**:
