@@ -39,7 +39,6 @@
 <a href="https://www.linkedin.com/in/florindo-zecconi-aa0368314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="florindoDev" height="30" width="40" /></a>
 </p>
 
----
 
 <h2 align="left">🏆 See my goals:</h2>
 
