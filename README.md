@@ -23,13 +23,6 @@
 - ⚡ Fun fact **Non evado le tasse**
 
 
-<h2 align="left">🌐 Connect with me:</h2>
-<p align="left">
-<a href="https://www.instagram.com/florindo_zec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="florindodev" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/florindo-zecconi-aa0368314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="florindoDev" height="30" width="40" /></a>
-</p>
-
-
 <h2 align="left">🛠️ Skills:</h2>
 
 <div align="center">
@@ -39,6 +32,12 @@
       </a>
     </p>
 </div>
+
+<h2 align="left">🌐 Connect with me:</h2>
+<p align="left">
+<a href="https://www.instagram.com/florindo_zec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="florindodev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/florindo-zecconi-aa0368314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="florindoDev" height="30" width="40" /></a>
+</p><br><br>
 
 <h2 align="left">🏆 See my goals:</h2>
 
