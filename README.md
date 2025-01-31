@@ -22,6 +22,11 @@
 
 - ⚡ Fun fact **Non evado le tasse**
 
+<h2 align="left">📌​ Stats:</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorindoDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florindodev&show_icons=true&theme=tokyonight)
 
 <h2 align="left">🛠️ Skills:</h2>
 
@@ -43,4 +48,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=florindodev&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=kimbie_dark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorindoDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
