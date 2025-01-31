@@ -42,6 +42,5 @@
 <h2 align="left">🏆 See my goals:</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=florindodev&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=kimbie_dark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=florindodev&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=florindodev1&theme=dark)](https://git.io/streak-stats)
 
