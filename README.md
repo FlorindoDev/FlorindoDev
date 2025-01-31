@@ -28,12 +28,12 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=florindodev&show_icons=true&theme=radical" />
-</a><br>
+</a><br><br>
 
 <h2 align="left">🏆 See my goals:</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=florindodev&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=kimbie_dark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
+<br><br>
 
 <h2 align="left">🛠️ Skills:</h2>
 
