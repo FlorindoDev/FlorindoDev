@@ -28,10 +28,12 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=florindodev&show_icons=true&theme=radical" />
-</a>
+</a><br>
 
+<h2 align="left">🏆 See my goals:</h2>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=florindodev&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=kimbie_dark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 
 <h2 align="left">🛠️ Skills:</h2>
 
@@ -49,8 +51,6 @@
 <a href="https://www.linkedin.com/in/florindo-zecconi-aa0368314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="florindoDev" height="30" width="40" /></a>
 </p><br>
 
-<h2 align="left">🏆 See my goals:</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=florindodev&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=kimbie_dark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
