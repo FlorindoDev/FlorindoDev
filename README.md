@@ -12,7 +12,7 @@
 - 🧑🏻‍💻 Personal project:
     - 🚀 [ElementFinder](https://github.com/FlorindoDev/ElementFinder)
     - 🚀 [LeagueOfBet](https://github.com/FlorindoDev/LeagueOfBet)
-    - 🚀 [Prototipo App SantoBono](https://github.com/FlorindoDev/SantoBono)
+    - 🚀 [SantoBono Hospital Demo Application](https://github.com/FlorindoDev/SantoBono)
 
 - 📝 I regularly write articles on [University courses](https://informatica.dieti.unina.it)
 
