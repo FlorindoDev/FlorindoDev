@@ -54,7 +54,7 @@
 
 <h2 align="left">🌐 Connect with me:</h2>
 <p align="left">
-<a href="https://www.instagram.com/florindo_zec" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="florindodev" height="100" width="110" /></a>
+<a href="https://www.instagram.com/florindo_zec" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="florindodev" /></a>
 <a href="https://www.linkedin.com/in/florindo-zecconi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="florindoDev" height="30" width="40" /></a>
 </p><br>
 
