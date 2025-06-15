@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Florindo Zecconi</h1>
 
 <center>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=008F39&width=435&lines=Full+stack+developer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=008F39&width=435&lines=Full+stack+developer" alt="Typing SVG" /></a>
 </center>
+
 <h3 align="center">I am a student of the DEGREE COURSE IN COMPUTER SCIENCE at the University of Naples Federico II</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
