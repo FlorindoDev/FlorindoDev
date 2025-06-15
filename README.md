@@ -29,6 +29,7 @@
 
 - ⚡ Fun fact **Non evado le tasse**
 
+- 🌐 Connect with me:
 <a href="https://www.instagram.com/florindo_zec" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="florindodev" /></a>
 <a href="https://www.linkedin.com/in/florindo-zecconi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="florindoDev" /></a>
 
@@ -55,11 +56,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=florindodev&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=kimbie_dark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <br><br>
 
-<h2 align="left">🌐 Connect with me:</h2>
-<p align="left">
-<a href="https://www.instagram.com/florindo_zec" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="florindodev" /></a>
-<a href="https://www.linkedin.com/in/florindo-zecconi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="florindoDev" /></a>
-</p><br>
+
 
 
 
