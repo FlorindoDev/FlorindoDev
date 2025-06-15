@@ -6,8 +6,7 @@
 </p>
 
 <h3 align="center">I am a student of the DEGREE COURSE IN COMPUTER SCIENCE at the University of Naples Federico II</h3>
-<a href="https://www.instagram.com/florindo_zec" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="florindodev" /></a>
-<a href="https://www.linkedin.com/in/florindo-zecconi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="florindoDev" /></a>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working/ed on **University's project**:
@@ -29,6 +28,9 @@
 - 📫 How to reach me **fl.zecconi@studenti.unina.it**
 
 - ⚡ Fun fact **Non evado le tasse**
+
+<a href="https://www.instagram.com/florindo_zec" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="florindodev" /></a>
+<a href="https://www.linkedin.com/in/florindo-zecconi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="florindoDev" /></a>
 
 <h2 align="left">📌​ Stats:</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
