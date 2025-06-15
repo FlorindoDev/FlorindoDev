@@ -1,4 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=300&color=008F39&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B;I'm+Florindo+Zecconi;+Full+stack+developer" alt="Typing SVG" /></a>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&center=true&vCenter=true&width=900&height=300&lines=Hi+%F0%9F%91%8B;I'm+Florindo+Zecconi;+Full+stack+developer" alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="center">I am a student of the DEGREE COURSE IN COMPUTER SCIENCE at the University of Naples Federico II</h3>
 
