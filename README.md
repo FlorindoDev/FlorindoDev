@@ -14,7 +14,7 @@
     - 🚀 [FandomWiki](https://github.com/FlorindoDev/SoftwereWiki)
     - 🚀 [DietiEstates25](https://github.com/FlorindoDev/DietiEstates25)
     - 🚀 [TelefonoSenzaFili](https://github.com/FlorindoDev/TelefonoSenzaFili)
-    - 🔜 [Meme Museum](https://github.com/FlorindoDev/MemeMuseum)      
+    - 🚀 [Meme Museum](https://github.com/FlorindoDev/MemeMuseum)      
 - 🧑🏻‍💻 Personal project:
     - 🚀 [ElementFinder](https://github.com/FlorindoDev/ElementFinder)
     - 🚀 [LeagueOfBet](https://github.com/FlorindoDev/LeagueOfBet)
