@@ -7,7 +7,7 @@
 
 <h3 align="center">I am a student of the DEGREE COURSE IN COMPUTER SCIENCE at the University of Naples Federico II</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🔭 I’m currently working/ed on **University's project**:
     - 🚀 [ASD project](https://github.com/FlorindoDev/Laboratorio-Algoritmi-e-Strutture-dati-)
