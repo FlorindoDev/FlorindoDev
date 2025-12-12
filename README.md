@@ -16,6 +16,7 @@
     - 🚀 [TelefonoSenzaFili](https://github.com/FlorindoDev/TelefonoSenzaFili)
     - 🚀 [Meme Museum](https://github.com/FlorindoDev/MemeMuseum)      
 - 🧑🏻‍💻 Personal project:
+    - 🚀 [Pasticceria-Giuliano-Web-site](https://github.com/FlorindoDev/Pasticceria-Giuliano-Web-site)
     - 🚀 [ElementFinder](https://github.com/FlorindoDev/ElementFinder)
     - 🚀 [LeagueOfBet](https://github.com/FlorindoDev/LeagueOfBet)
     - 🚀 [SantoBono Hospital Demo Application](https://github.com/FlorindoDev/SantoBono)
