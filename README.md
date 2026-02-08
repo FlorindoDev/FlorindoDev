@@ -1,156 +1,79 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Florindo+Zecconi;Full+Stack+Developer;Computer+Science+Student;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?color=008F39FF&font=Fira+Code&size=60&duration=3200&pause=150&center=true&vCenter=true&width=900&height=300&lines=Hi+%F0%9F%91%8B;I'm+Florindo+Zecconi;Full+stack+developer" alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florindo-zecconi)
-  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/florindo_zec)
-  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fl.zecconi@studenti.unina.it)
-  
-</div>
+<h3 align="center">Computer Science Student @ University of Naples Federico II</h3>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/florindo-zecconi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/florindo_zec"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:fl.zecconi@studenti.unina.it"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## University Projects
 
-### About Me
+- [ASD Project](https://github.com/FlorindoDev/Laboratorio-Algoritmi-e-Strutture-dati-) - Advanced algorithms and data structures
+- [FandomWiki](https://github.com/FlorindoDev/SoftwereWiki) - Collaborative wiki platform
+- [DietiEstates25](https://github.com/FlorindoDev/DietiEstates25) - Real estate management system
+- [TelefonoSenzaFili](https://github.com/FlorindoDev/TelefonoSenzaFili) - Wireless communication simulation
+- [Meme Museum](https://github.com/FlorindoDev/MemeMuseum) - Digital museum for internet culture
+- [RacingDNA](https://github.com/FlorindoDev/RacingDNA) - Racing statistics platform
 
-**Computer Science Student** @ University of Naples Federico II  
-Passionate about building scalable applications and solving complex problems  
-Always learning, always coding  
-Fun fact: *Non evado le tasse*
+## Personal Projects
 
-<br clear="right"/>
+- [Pasticceria Giuliano Website](https://github.com/FlorindoDev/Pasticceria-Giuliano-Web-site) - E-commerce for local pastry shop
+- [LeagueOfBet](https://github.com/FlorindoDev/LeagueOfBet) - Esports betting simulation
+- [SantoBono Hospital Demo](https://github.com/FlorindoDev/SantoBono) - Healthcare management app
 
----
+## Notes & Articles
 
-### University Projects
+- [LASD Notes (LaTeX)](https://github.com/FlorindoDev/LatexASDNotes) - Comprehensive algorithm documentation
+- Regular articles on [University courses](https://informatica.dieti.unina.it)
 
-<table>
-<tr>
-  <td width="50%">
-    <h4><a href="https://github.com/FlorindoDev/Laboratorio-Algoritmi-e-Strutture-dati-">ASD Project</a></h4>
-    <p>Advanced algorithms and data structures implementation</p>
-  </td>
-  <td width="50%">
-    <h4><a href="https://github.com/FlorindoDev/SoftwereWiki">FandomWiki</a></h4>
-    <p>Collaborative wiki platform for fandoms</p>
-  </td>
-</tr>
-<tr>
-  <td>
-    <h4><a href="https://github.com/FlorindoDev/DietiEstates25">DietiEstates25</a></h4>
-    <p>Real estate management system</p>
-  </td>
-  <td>
-    <h4><a href="https://github.com/FlorindoDev/TelefonoSenzaFili">TelefonoSenzaFili</a></h4>
-    <p>Wireless communication simulation</p>
-  </td>
-</tr>
-<tr>
-  <td>
-    <h4><a href="https://github.com/FlorindoDev/MemeMuseum">Meme Museum</a></h4>
-    <p>Digital museum for internet culture</p>
-  </td>
-  <td>
-    <h4><a href="https://github.com/FlorindoDev/RacingDNA">RacingDNA</a></h4>
-    <p>Racing statistics and analytics platform</p>
-  </td>
-</tr>
-</table>
+## Tech Stack
 
----
+**Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-### Personal Projects
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-<details open>
-<summary><b>Click to explore my side projects</b></summary>
-<br>
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-- **[Pasticceria Giuliano Website](https://github.com/FlorindoDev/Pasticceria-Giuliano-Web-site)** - E-commerce platform for a local pastry shop
-- **[LeagueOfBet](https://github.com/FlorindoDev/LeagueOfBet)** - Esports betting simulation platform
-- **[SantoBono Hospital Demo](https://github.com/FlorindoDev/SantoBono)** - Healthcare management application
+**Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-</details>
+## GitHub Stats
 
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=florindodev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorindoDev&layout=compact&theme=radical"/>
+</p>
 
-### Notes & Documentation
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=florindodev&theme=radical"/>
+</p>
 
-- [LASD Notes (LaTeX)](https://github.com/FlorindoDev/LatexASDNotes) - Comprehensive algorithm notes
-- Regular contributor to [University course materials](https://informatica.dieti.unina.it)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=florindodev&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
 
----
-
-### Tech Stack
-
-<div align="center">
-
-#### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-#### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-</div>
-
----
-
-### GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=florindodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorindoDev&layout=compact&theme=tokyonight&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=florindodev&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats"/>
-</div>
-
----
-
-### GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=florindodev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-### Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=florindodev&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  
-  ### "Code is poetry written in logic"
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=florindodev&color=blueviolet&style=for-the-badge)
-  
-  From [FlorindoDev](https://github.com/FlorindoDev)
-  
-</div>
+<p align="center">
+  <i>Non evado le tasse</i>
+</p>
