@@ -53,6 +53,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=florindodev&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
-<p align="center">
-  <i>Non evado le tasse</i>
-</p>
+
