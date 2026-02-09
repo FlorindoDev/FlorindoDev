@@ -35,7 +35,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,docker,git,angular,cloudflare,dart,discord,flutter,github,html,java,nodejs,idea,js,latex,linux,obsidian,powershell,py,vscode,postgres,mongodb,bash,figma,azure" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,docker,git,angular,cloudflare,dart,discord,flutter,github,html,java,nodejs,idea,js,latex,linux,obsidian,powershell,py,vscode,postgres,mongodb,bash,figma,azure,pytorch" />
 </p>
 
 ## GitHub Stats
