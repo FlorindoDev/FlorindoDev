@@ -20,6 +20,7 @@
 - [TelefonoSenzaFili](https://github.com/FlorindoDev/TelefonoSenzaFili) - Wireless communication simulation
 - [Meme Museum](https://github.com/FlorindoDev/MemeMuseum) - Digital museum for internet culture
 - [RacingDNA](https://github.com/FlorindoDev/RacingDNA) - Racing statistics platform
+- [Deep Learning](https://github.com/FlorindoDev/NNDL) - FCNN e CNN implementation
 
 ## Personal Projects
 
