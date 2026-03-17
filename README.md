@@ -21,6 +21,7 @@
 - [Meme Museum](https://github.com/FlorindoDev/MemeMuseum) - Digital museum for internet culture
 - [RacingDNA](https://github.com/FlorindoDev/RacingDNA) - Racing statistics platform
 - [Deep Learning](https://github.com/FlorindoDev/NNDL) - FCNN e CNN implementation
+- [Robotic Arm](https://github.com/FlorindoDev/Recorder-VR-Isaac) - Move robotic arm with VR and record movements
 
 ## Personal Projects
 
