@@ -32,7 +32,7 @@
 ## Notes & Articles
 
 - [LASD Notes (LaTeX)](https://github.com/FlorindoDev/LatexASDNotes) - Comprehensive algorithm documentation
-- Regular articles on [University courses](https://informatica.dieti.unina.it)
+- Regular note on [University courses](https://informatica.dieti.unina.it)
 
 ## Tech Stack
 
