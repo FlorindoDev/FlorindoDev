@@ -24,7 +24,7 @@
 - [Robotic Arm](https://github.com/FlorindoDev/Recorder-VR-Isaac) - Move robotic arm with VR and record movements
 
 ## Personal Projects
-
+- [GymTracker](https://github.com/FlorindoDev/GymTracker): Gym planner and tracker
 - [Pasticceria Giuliano Website](https://github.com/FlorindoDev/Pasticceria-Giuliano-Web-site) - E-commerce for local pastry shop
 - [LeagueOfBet](https://github.com/FlorindoDev/LeagueOfBet) - Esports betting simulation
 - [SantoBono Hospital Demo](https://github.com/FlorindoDev/SantoBono) - Healthcare management app
