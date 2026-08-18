@@ -12,8 +12,12 @@
   <a href="mailto:florindodev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-## University Projects
+## Notes & Articles
+- [Delegated-Code-Generation-with-LLM-Agents](https://github.com/FlorindoDev/Delegated-Code-Generation-with-LLM-Agents) - In-depth analysis and development of code delegation
+- [LASD Notes (LaTeX)](https://github.com/FlorindoDev/LatexASDNotes) - Comprehensive algorithm documentation
+- Regular note on [University courses](https://informatica.dieti.unina.it)
 
+## University Projects
 - [ASD Project](https://github.com/FlorindoDev/Laboratorio-Algoritmi-e-Strutture-dati-) - Advanced algorithms and data structures
 - [FandomWiki](https://github.com/FlorindoDev/SoftwereWiki) - Collaborative wiki platform
 - [DietiEstates25](https://github.com/FlorindoDev/DietiEstates25) - Real estate management system
@@ -28,11 +32,6 @@
 - [Pasticceria Giuliano Website](https://github.com/FlorindoDev/Pasticceria-Giuliano-Web-site) - E-commerce for local pastry shop
 - [LeagueOfBet](https://github.com/FlorindoDev/LeagueOfBet) - Esports betting simulation
 - [SantoBono Hospital Demo](https://github.com/FlorindoDev/SantoBono) - Healthcare management app
-
-## Notes & Articles
-
-- [LASD Notes (LaTeX)](https://github.com/FlorindoDev/LatexASDNotes) - Comprehensive algorithm documentation
-- Regular note on [University courses](https://informatica.dieti.unina.it)
 
 ## Tech Stack
 
