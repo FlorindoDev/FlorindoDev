@@ -18,6 +18,7 @@
 - Regular note on [University courses](https://informatica.dieti.unina.it)
 
 ## University Projects
+- [OutfitTransformer](https://github.com/FlorindoDev/OutfitTransformer) - Model for Compatibility Prediction and Complementary Item Retrieval on Outfits
 - [ASD Project](https://github.com/FlorindoDev/Laboratorio-Algoritmi-e-Strutture-dati-) - Advanced algorithms and data structures
 - [FandomWiki](https://github.com/FlorindoDev/SoftwereWiki) - Collaborative wiki platform
 - [DietiEstates25](https://github.com/FlorindoDev/DietiEstates25) - Real estate management system
